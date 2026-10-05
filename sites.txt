@@ -1,0 +1,2 @@
+# One site per line. Only list sites you own or are allowed to test.
+https://example.com
